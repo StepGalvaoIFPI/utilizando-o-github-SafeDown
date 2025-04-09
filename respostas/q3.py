@@ -1,1 +1,4 @@
-#Crie um programa que exiba as seguintes informações, cada uma em uma linha:
+print("Nome: Wagner L R Gomes")
+print("idade: 28 anos")
+print("Cidade Natal: Simplicio Mendes")
+print("Estado de Nascimento: Piaui ")
